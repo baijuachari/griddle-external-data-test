@@ -1,4 +1,3 @@
-griddle-gulp-test
+griddle- with external data source test
 =================
-
-Testing Griddle with Gulp. 
+ 
